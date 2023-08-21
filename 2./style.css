@@ -1,0 +1,20 @@
+#firstid {
+    color: #0000ff;
+    font-size: 36px;
+}
+#secondid {
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+
+}
+.Odd {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: pink;
+}
+.nm3 {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: pink;
+    font-size: 24px;
+}
