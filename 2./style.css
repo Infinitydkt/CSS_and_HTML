@@ -1,20 +1,18 @@
-#firstid {
+#two {
     color: #0000ff;
     font-size: 36px;
 }
-#secondid {
+#four {
     color: #000000;
-    font-size: 24px;
+    /*font-size: 24px;*/
     font-weight: bold;
     background-color: lightgreen;
 
 }
 .Odd {
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
     background-color: pink;
 }
-.nm3 {
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
-    background-color: pink;
+ .adjust-font-size {
     font-size: 24px;
-}
+ }
